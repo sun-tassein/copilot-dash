@@ -1,4 +1,3 @@
-// filepath: /c:/Users/nikola.radic/Desktop/js/copilot-4/my-next-app/components/Header.js
 import * as React from 'react';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';

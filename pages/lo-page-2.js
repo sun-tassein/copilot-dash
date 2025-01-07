@@ -1,4 +1,3 @@
-// filepath: /c:/Users/nikola.radic/Desktop/js/copilot-4/my-next-app/pages/lo-page-2.js
 import * as React from 'react';
 
 export default function LoPage2() {

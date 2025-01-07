@@ -1,4 +1,3 @@
-// filepath: /c:/Users/nikola.radic/Desktop/js/copilot-4/my-next-app/pages/fi-page-2.js
 import * as React from 'react';
 
 export default function FiPage2() {

@@ -1,4 +1,3 @@
-// filepath: /c:/Users/nikola.radic/Desktop/js/copilot-4/my-next-app/components/Layout.js
 import * as React from 'react';
 import Header from './Header';
 import Sidebar from './Sidebar';
